@@ -1,8 +1,7 @@
 import React from 'react';
-
 import ReactDOM from 'react-dom';
-
-import App from './App';
+import './scss/main.scss';
+import App from './components/App';
 
 const title = 'Tetris Practice';
 

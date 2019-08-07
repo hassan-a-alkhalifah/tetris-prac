@@ -58,6 +58,7 @@
         ],
         "prettier/prettier": [
             "error"
-        ]
+        ],
+        "no-console": 1
     }
 }
